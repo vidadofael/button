@@ -1,0 +1,26 @@
+.segundo--pulse {
+    background: none;
+    border: 1px solid;
+    margin: 25px;
+    cursor: pointer;
+    padding: 15px 30px;
+    color: rgb(76, 72, 188);
+}
+.segundo--pulse:hover {
+    color: #FFF;
+}
+
+.laranja {
+    color: #FF760C;
+   
+}
+
+.azul {
+    color: #16c5e8;
+
+}
+
+.verde {
+    color: #56d89f;
+
+}

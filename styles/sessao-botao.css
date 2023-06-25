@@ -1,0 +1,16 @@
+.sessao--botao {
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+}
+.sessao--botao--pulse {
+    background-color: rgb(19, 28, 37);
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    box-shadow: 0 1px 10px 0 #bababa;
+}
